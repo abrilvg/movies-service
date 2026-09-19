@@ -14,4 +14,4 @@ This project was build using following tools: yarn, vite, react, redux, redux-to
 
 
 ### Demo
-https://amiraveliz.github.io/movies-service
+https://abrilvg.github.io/movies-service/
